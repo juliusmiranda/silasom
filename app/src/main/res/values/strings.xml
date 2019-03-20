@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Silasom</string>
+    <string name="Silasom">Silasom</string>
+    <string name="acbutton">Action Button</string>
+    <string name="a_empresa">A empresa</string>
+    <string name="projetos">Projetos</string>
+    <string name="image">image</string>
+    <string name="ver_no_mapa">Ver no mapa</string>
+</resources>
